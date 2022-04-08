@@ -1,6 +1,3 @@
-#ifndef __JUNGYOONGILL__LIB_H__
-#define __JUNGYOONGILL__LIB_H__
-
 #include <iostream>
 using namespace std;
  
@@ -41,6 +38,4 @@ int ChainedMatrix(int arr[], int n)
     }
  
     return DP[1][n - 1];
-}
- 
-#endif
+};
