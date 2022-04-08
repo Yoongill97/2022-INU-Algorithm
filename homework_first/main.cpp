@@ -10,7 +10,10 @@
 
 using namespace std;
 
+
 int main(){
+
+
     //행렬 생성
     int arr[SIZE_OF_ARRAY] = {0, };
     //실행 전 행렬 출력
